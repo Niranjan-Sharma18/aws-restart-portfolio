@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/24452440/README.md)
+
 # AWS re/Start labs (my notes)
 
 I am a Computer Science graduate and I am using this repo to keep my AWS re/Start lab notes in one place.
